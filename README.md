@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6a8715fe2600fc2f5531fd4b?variant=dark&roadmaps=javascript)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6a8715fe2600fc2f5531fd4b?variant=dark&roadmaps=full-stack%2Cjavascript%2Cpython)](https://roadmap.sh)
 
 <!--
 **zealot-SEAlot/zealot-SEAlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
