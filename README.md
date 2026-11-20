@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,9 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
