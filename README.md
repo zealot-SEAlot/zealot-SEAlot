@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,12 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
