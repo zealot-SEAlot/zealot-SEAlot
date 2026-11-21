@@ -31,6 +31,7 @@ I build games and the tools people actually use: Roblox games, a mobile game, br
 | [0004-median-of-two-sorted-arrays](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,22 @@ I build games and the tools people actually use: Roblox games, a mobile game, br
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Hash Table
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
+## String
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
 
 </details>
