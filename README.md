@@ -13,7 +13,6 @@ I build games and the tools people actually use: Roblox games, a mobile game, br
 
 <!-- ACTIVITY:START -->
 - [opened a pull request in gym-mana-JEYO-ment](https://github.com/zealot-SEAlot/gym-mana-JEYO-ment/pull/16) · 2026-10-27
-- [opened a pull request in gym-mana-JEYO-ment](https://github.com/zealot-SEAlot/gym-mana-JEYO-ment/pull/12) · 2026-10-27
 <!-- ACTIVITY:END -->
 
 #### 🧭 Learning
