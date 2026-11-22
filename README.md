@@ -59,6 +59,7 @@ I build games and the tools people actually use: Roblox games, a mobile game, br
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
