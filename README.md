@@ -33,6 +33,7 @@ I build games and the tools people actually use: Roblox games, a mobile game, br
 | [0015-3sum](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/0015-3sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,22 @@ I build games and the tools people actually use: Roblox games, a mobile game, br
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3411-maximum-subarray-with-equal-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/zealot-SEAlot/zealot-SEAlot/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
 
 </details>
